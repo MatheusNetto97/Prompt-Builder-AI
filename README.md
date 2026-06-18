@@ -73,6 +73,12 @@ A entrega contém:
 
 Permitir que usuários compreendam e utilizem o Método P.R.O.M.P.T. Universal para criar prompts mais eficientes, aumentando a qualidade das respostas obtidas em ferramentas de Inteligência Artificial.
 
+<img width="897" height="720" alt="image" src="https://github.com/user-attachments/assets/505e89ab-847c-416b-8773-cae2a1d4d40a" />
+
+<img width="1755" height="882" alt="image" src="https://github.com/user-attachments/assets/ff12f627-7d93-42e5-a425-12d0b9461355" />
+
+<img width="1738" height="835" alt="image" src="https://github.com/user-attachments/assets/6f2058d8-98f4-49f9-b6f2-b7a2c8f05acc" />
+
 ## Autor
 
 Carlos Alberto Matheus da Luz Netto
