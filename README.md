@@ -66,8 +66,8 @@ https://notebooklm.google.com
 
 A entrega contém:
 
-1. Produto_Prompt_Builder_AI.pdf
-2. Prompt_Assistente_Prompt_Builder_AI.pdf
+1. PRD.pdf
+2. Prompt.pdf
 
 ## Resultado Esperado
 
